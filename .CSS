@@ -1,0 +1,147 @@
+#back-ground{
+    background-image: url(https://t3.ftcdn.net/jpg/02/89/60/96/360_F_289609649_SayyqhWUJoVj3roYfRty2sWYEipZ2n0L.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 1330px;
+    background-size: cover;
+    background-position: cover;
+    margin-top: 70px;
+    margin-right:20px;
+    border: 30x solid white;
+    box-shadow: 3px 3px 5px 3px skyblue;
+    border-radius: 20px;
+    position: relative;
+}
+h1{
+    color: blue;
+    position: absolute;
+    top: 0;
+    left: 40px;
+}
+h2{
+    text-transform: capitalize;
+    position: absolute;
+    top: 5px;
+    right: 30px;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 5px;
+    background-color: #6495ED;
+    cursor: pointer;
+}
+h2:hover{
+    background-color: #CCCCFF;
+}
+.paragraph{
+    font-size: 45px;
+    text-align: center;
+    position: absolute;
+    top: 150px;
+    left: 380px;
+    bottom: 400px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.paragraph2{
+    text-transform: capitalize;
+    font-size: 25px;
+    position: absolute;
+    top: 300px;
+    left: 380px;
+}
+.btn1{
+    text-transform: capitalize;
+    font-size: larger;
+    font-family: serif;
+    padding: 12px 0;
+    border: 1px solid black;
+    width: 150px;
+    border-radius: 25px;
+    font-weight: 16px;
+    background-color:#6495ED;
+    cursor: pointer;
+    position: absolute;
+    top: 400px;
+    left: 400px;
+}
+.btn1:hover{
+    background-color: #CCCCFF;
+}
+.btn2{
+    text-transform: capitalize;
+    font-size: larger;
+    font-family: serif;
+    padding: 12px 0;
+    border: 1px solid black;
+    width: 150px;
+    border-radius: 25px;
+    font-weight: 16px;
+    background-color: #6495ED;
+    cursor: pointer;
+    position: absolute;
+    top: 400px;
+    left: 570px;
+}
+.btn2:hover{
+    background-color: #CCCCFF;
+}
+.emergency{
+    font-size: larger;
+    text-transform: capitalize;
+    background-color: #6495ED;
+    text-align: justify;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 10px;
+    position: absolute;
+    top: 550px;
+    left: 40px;
+    padding: 10px;
+    min-height: 200px;
+    min-width: 200px;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.emergency:hover{
+    background-color: #CCCCFF;
+}
+.note{
+    font-size: larger;
+    text-transform: capitalize;
+    background-color: #6495ED;
+    text-align: center;
+    text-align: justify;
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 10px;
+    position: absolute;
+    top: 550px;
+    left: 350px;
+    padding: 10px;
+    min-height: 200px;
+    min-width: 200px;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.note:hover{
+    background-color: #CCCCFF;
+}
+.opening{
+    font: larger;
+    text-transform: capitalize;
+    background-color: #6495ED;
+    text-align: center;
+    text-align: justify;
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 10px;
+    position: absolute;
+    top: 550px;
+    right:460px;
+    padding: 10px;
+    min-height: 200px;
+    min-width: 200px;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.opening:hover{
+    background-color: #CCCCFF;
+}
